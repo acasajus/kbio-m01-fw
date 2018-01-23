@@ -154,10 +154,10 @@ const Key keymaps[][ROWS][COLS] PROGMEM = {
    ___, Key_Delete, ___, ___,
    ___,
 
-   XXX,           Key_F6,               Key_F7,                Key_F8,          Key_F9,           Key_F10,       Key_F11,
-   XXX,           Key_PageUp,           Key_Home,              Key_UpArrow,     Key_End,          XXX,           Key_Insert,
-                  Key_PageDown,         Key_LArrow,            Key_DnArrow,     Key_RArrow,       XXX,           XXX,
-   Key_mouseBtnR, Key_LeftCurlyBracket, Key_RightCurlyBracket, Key_LeftBracket, Key_RightBracket, Key_Backslash, Key_Pipe,
+   XXX,           Key_F6,        Key_F7,               Key_F8,                Key_F9,          Key_F10,          Key_F11,
+   XXX,           Key_PageUp,    Key_Home,             Key_UpArrow,           Key_End,         XXX,              Key_Insert,
+                  Key_PageDown,  Key_LArrow,           Key_DnArrow,           Key_RArrow,      XXX,              XXX,
+   Key_mouseBtnR, Key_Backslash, Key_LeftCurlyBracket, Key_RightCurlyBracket, Key_LeftBracket, Key_RightBracket, Key_Pipe,
    ___, ___, Key_Enter, ___,
    ___)
 
